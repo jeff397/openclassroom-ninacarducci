@@ -185,7 +185,9 @@ body {
   z-index: 1;
 }
 
-.shooting {
+.shooting,
+.retouch,
+.album-photo {
   font-size: calc(1.3rem + 0.6vw);
 }
 
