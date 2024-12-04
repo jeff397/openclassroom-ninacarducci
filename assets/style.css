@@ -191,6 +191,10 @@ body {
   font-size: calc(1.3rem + 0.6vw);
 }
 
+.price {
+  font-size: calc(1.275rem + 0.3vw);
+}
+
 #contact {
   margin: auto;
   background-color: #d8d3a8;
