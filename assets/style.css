@@ -185,6 +185,10 @@ body {
   z-index: 1;
 }
 
+.shooting {
+  font-size: calc(1.3rem + 0.6vw);
+}
+
 #contact {
   margin: auto;
   background-color: #d8d3a8;
