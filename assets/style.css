@@ -180,7 +180,7 @@ body {
   height: 337px;
   padding: 1em;
   display: flex;
-  flex-direction: column;z
+  flex-direction: column;
   justify-content: space-between;
   z-index: 1;
 }
