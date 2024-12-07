@@ -142,6 +142,7 @@ body {
 }
 .quote__text {
   font-family: Spectral;
+  font-size: calc(1.375rem + 1.5vw);
   font-style: italic;
   font-weight: 300;
 }
